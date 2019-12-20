@@ -1,3 +1,5 @@
+// Redfin and Divvy Map
+
 // Create a map object
 var myMap = L.map("map", {
   center: [41.8781, -87.6298],
